@@ -1,0 +1,4 @@
+desc "Says hello!"
+task :hello do
+  puts "Hello World from Rake!"
+end
