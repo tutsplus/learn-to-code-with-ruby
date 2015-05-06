@@ -172,6 +172,7 @@ called Rubygems.
 
 **Related links**
 
+- [What is a Gem?](http://guides.rubygems.org/what-is-a-gem/)
 - [Rake documentation](https://github.com/ruby/rake#readme)
 
 # 6 Testing
